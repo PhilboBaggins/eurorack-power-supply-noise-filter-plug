@@ -1,0 +1,8 @@
+Reference Designator,Description,Manufacturer,Manufacturer Part Number,Suppliers,Package,Quantity,Capacitance,Voltage,Is Generic,Symbol Type
+C1,Generic Capacitor (Polarized) (1e-10F),Generic,Polarized Capacitor (1e-10F),,"1206 (3216 metric), polarized",1,1e-10F,5v,true,Electrolytic Capacitor
+C3 C2,Generic Capacitor (Polarized) (1e-10F),Generic,Polarized Capacitor (1e-10F),,"1206 (3216 metric), polarized",2,1e-10F,25v,true,Electrolytic Capacitor
+C4,Generic Capacitor (Polarized) (1e-08F),Generic,Polarized Capacitor (1e-08F),,"1206 (3216 metric), polarized",1,1e-08F,5v,true,Electrolytic Capacitor
+C6 C5,Generic Capacitor (Polarized) (1e-08F),Generic,Polarized Capacitor (1e-08F),,"1206 (3216 metric), polarized",2,1e-08F,25v,true,Electrolytic Capacitor
+C7,Generic Capacitor (Polarized) (1e-06F),Generic,Polarized Capacitor (1e-06F),,"1206 (3216 metric), polarized",1,1e-06F,5v,true,Electrolytic Capacitor
+C8 C9,Generic Capacitor (Polarized) (1e-06F),Generic,Polarized Capacitor (1e-06F),,"1206 (3216 metric), polarized",2,1e-06F,25v,true,Electrolytic Capacitor
+J1,Eurorack power connector - 16 pin (edge mount),Generic,Eurorack power connector - 16 pin (edge mount),,16 Pin Header - 2 Row - 2.54mm - Edge mount,1,,,,
